@@ -4,6 +4,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 ## Exercise List
 
+1. [Change text inside an element](exercises/ex01-change-text/)
+
 ## Objective
 
 Enhance your skills in:
