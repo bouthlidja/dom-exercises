@@ -8,6 +8,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 2. [Change Background Color](exercises/ex02-change-background-color/)
 
+3. [Show and Hide an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
+
 ## Objective
 
 Enhance your skills in:
