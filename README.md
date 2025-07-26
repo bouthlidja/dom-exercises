@@ -6,6 +6,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 1. [Change text inside an element](exercises/ex01-change-text/)
 
+2. [Change Background Color](exercises/ex02-change-background-color/)
+
 ## Objective
 
 Enhance your skills in:
