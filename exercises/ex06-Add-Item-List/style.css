@@ -1,0 +1,58 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 500px;
+  margin: 80px auto;
+  background-color: #fff;
+  padding: 30px 40px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 12px;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #333;
+}
+
+ul#myList {
+  list-style-type: none;
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+ul#myList li {
+  background-color: #e3f2fd;
+  color: #0d47a1;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  border-radius: 6px;
+  text-align: left;
+  transition: background-color 0.3s ease;
+}
+
+ul#myList li:hover {
+  background-color: #bbdefb;
+}
+
+button.btn {
+  background-color: #2196f3;
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  font-size: 16px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button.btn:hover {
+  background-color: #1976d2;
+}

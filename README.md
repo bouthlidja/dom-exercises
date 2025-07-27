@@ -8,9 +8,11 @@ This project contains a collection of practical exercises to learn how to intera
 
 2. [Change Background Color](exercises/ex02-change-background-color/)
 
-3. [Show and Hide an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
+3. and 4. [Show and Hide an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
 
 4. [Change an Image](exercises/ex05-Change-an-Image/)
+
+5. [Add an Item to a List](exercises/ex06-Add-Item-List/)
 
 ## Objective
 
