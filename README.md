@@ -10,6 +10,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 3. [Show and Hide an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
 
+4. [Change an Image](exercises/ex05-Change-an-Image/)
+
 ## Objective
 
 Enhance your skills in:
