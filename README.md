@@ -16,6 +16,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 6. [Delete the last item from the list](exercises/ex07-Delete-Last-Item/)
 
+7. [Insert Text into a Page](exercises/ex08-Insert-Text-into-Page/)
+
 ## Objective
 
 Enhance your skills in:
