@@ -14,6 +14,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 5. [Add an Item to a List](exercises/ex06-Add-Item-List/)
 
+6. [Delete the last item from the list](exercises/ex07-Delete-Last-Item/)
+
 ## Objective
 
 Enhance your skills in:
