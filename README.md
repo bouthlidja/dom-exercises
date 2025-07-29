@@ -8,15 +8,18 @@ This project contains a collection of practical exercises to learn how to intera
 
 2. [Change Background Color](exercises/ex02-change-background-color/)
 
-3. and 4. [Show and Hide an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
+3. [Show an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
 
-4. [Change an Image](exercises/ex05-Change-an-Image/)
+4. and 4. [ Hide an Element](exercises/ex03-and-ex04-Show-and-Hide-an-Element/)
+5. [Change an Image](exercises/ex05-Change-an-Image/)
 
-5. [Add an Item to a List](exercises/ex06-Add-Item-List/)
+6. [Add an Item to a List](exercises/ex06-Add-Item-List/)
 
-6. [Delete the last item from the list](exercises/ex07-Delete-Last-Item/)
+7. [Delete the last item from the list](exercises/ex07-Delete-Last-Item/)
 
-7. [Insert Text into a Page](exercises/ex08-Insert-Text-into-Page/)
+8. [Insert Text into a Page](exercises/ex08-Insert-Text-into-Page/)
+
+9. [Change Text Font Size](exercises/ex09-Change-Text-Font-Size/)
 
 ## Objective
 
