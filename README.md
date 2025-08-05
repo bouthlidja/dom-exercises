@@ -21,6 +21,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 9. [Change Text Font Size](exercises/ex09-Change-Text-Font-Size/)
 
+10. [Change Text Font Size](exercises/ex10-Bold-Italic)
+
 ## Objective
 
 Enhance your skills in:

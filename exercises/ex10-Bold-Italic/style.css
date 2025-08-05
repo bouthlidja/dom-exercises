@@ -1,0 +1,55 @@
+/* تنسيق عام */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+/* الحاوية الرئيسية */
+.container {
+  background-color: #ffffff;
+  padding: 30px 40px;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 400px;
+}
+
+/* النص */
+.text-content {
+  font-size: 18px;
+  margin-bottom: 20px;
+  transition: all 0.3s ease;
+}
+
+/* الأزرار */
+.options button {
+  padding: 10px 20px;
+  margin: 0 10px;
+  font-size: 16px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: white;
+  transition: background-color 0.3s ease;
+}
+
+.options button:hover {
+  background-color: #0056b3;
+}
+
+/* Applied when the "Bold" button is toggled via JavaScript */
+.add-bold {
+  font-weight: bold;
+}
+
+/* Applied when the "Italic" button is toggled via JavaScript */
+.add-italic {
+  font-style: italic;
+}
