@@ -23,6 +23,8 @@ This project contains a collection of practical exercises to learn how to intera
 
 10. [Change Text Font Size](exercises/ex10-Bold-Italic)
 
+11. [JavaScript Button Click Counter](exercises/ex11-Button-Click-Counter/)
+
 ## Objective
 
 Enhance your skills in:
