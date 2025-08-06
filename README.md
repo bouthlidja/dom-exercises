@@ -17,6 +17,7 @@ This project contains a collection of practical exercises to learn how to intera
 11. [JavaScript Button Click Counter](exercises/ex11-Button-Click-Counter/)
 12. [Change Multiple Elements Colors](exercises/ex12-Change-Multiple-Elements-Colors/)
 13. [ Auto Image Slider](exercises/ex13-JavaScript-Auto-Image-Carousel/)
+14. [ Random Background Color on Click](exercises/ex14-Random-Background/)
 
 ## Objective
 
