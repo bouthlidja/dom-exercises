@@ -18,6 +18,7 @@ This project contains a collection of practical exercises to learn how to intera
 12. [Change Multiple Elements Colors](exercises/ex12-Change-Multiple-Elements-Colors/)
 13. [ Auto Image Slider](exercises/ex13-JavaScript-Auto-Image-Carousel/)
 14. [ Random Background Color on Click](exercises/ex14-Random-Background/)
+15. [ Text Length Validation](exercises/ex15-Text-Length-Validation/)
 
 ## Objective
 
