@@ -19,6 +19,7 @@ This project contains a collection of practical exercises to learn how to intera
 13. [ Auto Image Slider](exercises/ex13-JavaScript-Auto-Image-Carousel/)
 14. [ Random Background Color on Click](exercises/ex14-Random-Background/)
 15. [ Text Length Validation](exercises/ex15-Text-Length-Validation/)
+16. [ Move Item from UL to OL](exercises/ex16-Move-Item-from-UL-to-OL/)
 
 ## Objective
 
