@@ -1,4 +1,4 @@
-# 30 Practical JavaScript DOM Exercises
+# Practical JavaScript DOM Exercises
 
 This project contains a collection of practical exercises to learn how to interact with the DOM using JavaScript, ordered from the simplest to the most complex.
 
@@ -20,6 +20,7 @@ This project contains a collection of practical exercises to learn how to intera
 14. [ Random Background Color on Click](exercises/ex14-Random-Background/)
 15. [ Text Length Validation](exercises/ex15-Text-Length-Validation/)
 16. [ Move Item from UL to OL](exercises/ex16-Move-Item-from-UL-to-OL/)
+17. [ Dynamic List with Delete Button](exercises/ex17-My-List/)
 
 ## Objective
 
