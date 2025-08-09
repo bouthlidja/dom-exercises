@@ -1,18 +1,10 @@
-// const ulList = document.querySelectorAll("#ul-list li");
-// const olList = document.querySelector("#ol-list");
 
-// ulList.forEach((ele) => {
-//   ele.addEventListener("click", () => {
-//     console.log(ele);
-//     olList.append(ele);
-//   });
-// });
 
 const ulList = document.querySelector("#ul-list");
 const olList = document.querySelector("#ol-list");
 const resetBtn = document.querySelector("#reset-btn");
 
-// حفظ الحالة الافتراضية
+
 const defaultUL = ulList.innerHTML;
 const defaultOL = olList.innerHTML;
 
